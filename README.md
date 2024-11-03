@@ -1,7 +1,3 @@
-Here's a README that captures a personal and learning-focused tone:
-
----
-
 # Advanced Reddit Analysis Dashboard
 
 Hey there! This is a project I put together as a way to dive into R, learn more about data analysis, and have some fun with Reddit data along the way. This dashboard was built using **Shiny** in R and brings together several visualization tools to explore the depths of Reddit comments and posts. From text analysis to temporal patterns, I tried to cover a broad spectrum of analyses in this project.
